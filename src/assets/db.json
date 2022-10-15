@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "steve",
+      "DOB": "10-10-2020",
+      "salary": 30000,
+      "email": "steve@gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "first_name": "q",
+      "last_name": "w",
+      "birthday": "1-1-2000",
+      "gender": "option1",
+      "email": "q@gmail.com",
+      "phone_number": "7894561230",
+      "id": 1
+    },
+    {
+      "first_name": "meera",
+      "last_name": "das",
+      "birthday": "13-09-2020",
+      "gender": "option1",
+      "email": "meera@gmail.com",
+      "phone_number": "9638527410",
+      "id": 2
+    },
+    {
+      "first_name": "",
+      "last_name": "",
+      "birthday": "",
+      "gender": "",
+      "email": "",
+      "phone_number": "",
+      "id": 3
+    }
+  ]
+}
